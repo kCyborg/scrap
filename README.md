@@ -9,8 +9,13 @@ python -m pip install ebooklib
 python -m pip install beautifulsoup4
 ```
 
+The whole idea is very simple: build your own epub just feeding the script with a few variables. If you wanna build an epub for just the Volumen2 you can, or if you decide to throw the entire web into a single epub, you also can.
+
 The ussage is very simple: 
 1. Run the script: ```/your/location/python3 script.py```
 2. The script will ask you for a few details:
-   - Hello
+   - The url of the first chapter you wanna get. IE: https://wanderinginn.com/2021/01/10/8-00/
+   - The number of chapters. IE: If you wanna get the Vol7 just count the number of Volumen 7's chapters and enter that number here
+   - A little description. IE: `An inn is a place to rest, a place to talk and share stories, or a place to find adventures, a starting ground for quests and legends. In this world, at least. To Erin Solstice, an inn seems like a medieval relic from the past. But here she is, running from Goblins and trying to survive in a world full of monsters and magic. She’d be more excited about all of this if everything wasn’t trying to kill her. But an inn is what she found, and so that’s what she becomes. An innkeeper who serves drinks to heroes and monsters– Actually, mostly monsters. But it’s a living, right? This is the story of the Wandering Inn.`
+   - 
 
