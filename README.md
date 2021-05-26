@@ -32,7 +32,7 @@ I will start the scraping now
 
 
 
-3. Once you have feed the script, it will begin the scapaing and your terminal will look similar to:
+3. Once you have feed the script, it will begin the scraping and your terminal will look similar to:
 ```
 8.00
 
