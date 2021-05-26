@@ -12,4 +12,5 @@ python -m pip install beautifulsoup4
 The ussage is very simple: 
 1. Run the script: ```/your/location/python3 script.py```
 2. The script will ask you for a few details:
+   - Hello
 
